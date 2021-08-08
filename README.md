@@ -8,5 +8,5 @@ Source code for PascalTalk #10: Lazarus for Android.
 - [Pascal Indonesia Community](https://pascal-id.org)
 - [Telegram Group: Pascal Indonesia](https://t.me/PascalID)
 - [Facebook Group: Pascal Indonesia](https://web.facebook.com/groups/pascal.id)
-
+- [Presentation](docs/10-lamw_presentation.odp)
 
