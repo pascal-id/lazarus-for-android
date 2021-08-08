@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:1-75:12
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:1-75:12
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:1-75:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4d6b8cc59eb4e1220c64e1738c838114\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\b77f5be019db91eec2415ff37a62f2b3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d4a3256ec3425b972e338ec78c6f0b40\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2d2079c16127b258995ccf4e5834e97f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\7b69aab4869be3edee763c20bf62c453\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\044063331d05b673505cf90bd6f10934\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\65cadd4429624608e52f31ae93f35697\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5254d6a8c7f7e00c01913c0a7450abfb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c74662e5934009ef0d2525b10f459a5c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\76c49e59e3e48abef8cdfaba6f9236ce\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f06eca06fe585bd0b9d0086f716692af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4fa795f5fe51c7b437553339b5901f7d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\33ddfb0088e4071bd06c33352bcfc670\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5507ecead7ae37074f69760b2fbd8552\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\81f18ca7b401be6deeff47afac84c79d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f04b676824cc4a0525fe08206228cbda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d6106242e707c0ad33b0a508ecdb33a9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\ff39d2fca8c4ed132666b68f76c7c2b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5c011fea0d131182af1aa65b5106931f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\e6ca38fd4fa7d11bb364f91f85cb3ad1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\8d12b8b191cec83541f7128e826a4a61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c1e8fa88a687bd8718f69a9f5de4ba17\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\13934efe69d732f660a6749b67164d35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\09a8719ec5cf0ea4a0ad0076677032f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2db2ca8b9b33032e7ba74682ee46fbda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\9aab019e383cc54e4b10750cbbbccdf6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\a58fe210ce8ff5c7ac1c21e1849d9984\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4cee0349c201bec519aa70deee416618\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\dda3f2b30a48624233eab4333f9a3395\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\66574b3a29269b053403201370e1b699\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5db4a9d0298ff74e72c1cba015684295\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\91cbc695f258855ce83c5bb51abfa385\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:1-75:12
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:1-75:12
+	package
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:4:5-33
+	android:versionName
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:6:5-30
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:70-116
+	xmlns:android
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:5:5-28
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+uses-sdk
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:5-73
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:5-73
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:5-73
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4d6b8cc59eb4e1220c64e1738c838114\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4d6b8cc59eb4e1220c64e1738c838114\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\b77f5be019db91eec2415ff37a62f2b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\b77f5be019db91eec2415ff37a62f2b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d4a3256ec3425b972e338ec78c6f0b40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d4a3256ec3425b972e338ec78c6f0b40\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2d2079c16127b258995ccf4e5834e97f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2d2079c16127b258995ccf4e5834e97f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\7b69aab4869be3edee763c20bf62c453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\7b69aab4869be3edee763c20bf62c453\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\044063331d05b673505cf90bd6f10934\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\044063331d05b673505cf90bd6f10934\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\65cadd4429624608e52f31ae93f35697\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\65cadd4429624608e52f31ae93f35697\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5254d6a8c7f7e00c01913c0a7450abfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5254d6a8c7f7e00c01913c0a7450abfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c74662e5934009ef0d2525b10f459a5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c74662e5934009ef0d2525b10f459a5c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\76c49e59e3e48abef8cdfaba6f9236ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\76c49e59e3e48abef8cdfaba6f9236ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f06eca06fe585bd0b9d0086f716692af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f06eca06fe585bd0b9d0086f716692af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4fa795f5fe51c7b437553339b5901f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4fa795f5fe51c7b437553339b5901f7d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\33ddfb0088e4071bd06c33352bcfc670\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\33ddfb0088e4071bd06c33352bcfc670\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5507ecead7ae37074f69760b2fbd8552\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5507ecead7ae37074f69760b2fbd8552\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\81f18ca7b401be6deeff47afac84c79d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\81f18ca7b401be6deeff47afac84c79d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f04b676824cc4a0525fe08206228cbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\f04b676824cc4a0525fe08206228cbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d6106242e707c0ad33b0a508ecdb33a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\d6106242e707c0ad33b0a508ecdb33a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\ff39d2fca8c4ed132666b68f76c7c2b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\ff39d2fca8c4ed132666b68f76c7c2b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5c011fea0d131182af1aa65b5106931f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5c011fea0d131182af1aa65b5106931f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\e6ca38fd4fa7d11bb364f91f85cb3ad1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\e6ca38fd4fa7d11bb364f91f85cb3ad1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\8d12b8b191cec83541f7128e826a4a61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\8d12b8b191cec83541f7128e826a4a61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c1e8fa88a687bd8718f69a9f5de4ba17\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c1e8fa88a687bd8718f69a9f5de4ba17\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\13934efe69d732f660a6749b67164d35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\13934efe69d732f660a6749b67164d35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\09a8719ec5cf0ea4a0ad0076677032f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\09a8719ec5cf0ea4a0ad0076677032f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2db2ca8b9b33032e7ba74682ee46fbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\2db2ca8b9b33032e7ba74682ee46fbda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\9aab019e383cc54e4b10750cbbbccdf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\9aab019e383cc54e4b10750cbbbccdf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\a58fe210ce8ff5c7ac1c21e1849d9984\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\a58fe210ce8ff5c7ac1c21e1849d9984\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4cee0349c201bec519aa70deee416618\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4cee0349c201bec519aa70deee416618\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\dda3f2b30a48624233eab4333f9a3395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\dda3f2b30a48624233eab4333f9a3395\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\66574b3a29269b053403201370e1b699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\66574b3a29269b053403201370e1b699\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5db4a9d0298ff74e72c1cba015684295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\5db4a9d0298ff74e72c1cba015684295\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\91cbc695f258855ce83c5bb51abfa385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\91cbc695f258855ce83c5bb51abfa385\AndroidManifest.xml:20:5-44
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:5-73
+INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:5-73
+	android:targetSdkVersion
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:42-71
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:8:15-41
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+		INJECTED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml
+uses-permission#android.permission.NFC
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:10:5-61
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:10:22-59
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:11:22-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:13:5-74
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.READ_PRIVILEGED_PHONE_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:14:5-85
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:14:22-83
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:17:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:23:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:24:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:25:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:26:5-72
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:26:22-70
+uses-permission#android.permission.SEND_SMS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:28:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:29:22-67
+uses-permission#android.permission.CAMERA
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:30:22-62
+uses-permission#android.permission.ACCESS_BLUETOOTH_SHARE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:31:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:32:5-67
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:32:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:33:5-73
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:33:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:34:5-65
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:34:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:35:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:36:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:37:5-67
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:37:22-65
+uses-permission#android.permission.REORDER_TASKS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:38:22-69
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:39:5-76
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:39:22-74
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:40:5-112
+	tools:ignore
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:40:76-110
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:40:22-75
+permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:41:5-108
+	android:protectionLevel
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:41:71-106
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:41:17-70
+uses-feature#android.hardware.camera
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:43:5-84
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:43:58-82
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:43:19-57
+uses-feature#android.hardware.camera.flash
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:44:5-90
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:44:64-88
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:44:19-63
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:45:5-94
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:45:68-92
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:45:19-67
+uses-feature#0x00020000
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:47:5-77
+	android:glEsVersion
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:47:19-51
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:47:52-75
+uses-feature#android.hardware.telephony
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:48:5-87
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:48:61-85
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:48:19-60
+uses-feature#android.hardware.sensor.stepcounter
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:49:5-96
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:49:70-94
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:49:19-69
+uses-feature#android.hardware.sensor.stepdetector
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:50:5-97
+	android:required
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:50:71-95
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:50:19-70
+supports-screens
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:52:5-55:46
+	android:largeScreens
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:54:19-46
+	android:smallScreens
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:52:23-50
+	android:normalScreens
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:53:19-47
+	android:anyDensity
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:55:19-44
+application
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:56:5-74:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4d6b8cc59eb4e1220c64e1738c838114\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\4d6b8cc59eb4e1220c64e1738c838114\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c1e8fa88a687bd8718f69a9f5de4ba17\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\c1e8fa88a687bd8718f69a9f5de4ba17\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\pro-maker\.gradle\caches\transforms-2\files-2.1\047d2d142cc4e5289fdda06580b5eea2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:60:9-41
+	android:icon
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:59:9-45
+	android:allowBackup
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:58:9-35
+	android:theme
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:61:9-40
+	android:usesCleartextTraffic
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:57:2-37
+activity#org.lamw.pascalid1.App
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:62:9-71:20
+	android:enabled
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:66:36-58
+	android:label
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:64:13-45
+	android:launchMode
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:66:6-35
+	android:configChanges
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:65:13-97
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:63:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:67:13-70:29
+action#android.intent.action.MAIN
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:68:17-68
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:68:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:69:27-74
+provider#androidx.core.content.FileProvider
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:1-296
+	android:grantUriPermissions
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:140-174
+	android:authorities
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:61-114
+	android:exported
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:115-139
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:11-60
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:175-285
+	android:resource
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:237-283
+	android:name
+		ADDED from F:\fpcupdeluxe\projects\LAMWProjects\pascalid1\AndroidManifest.xml:72:186-236
